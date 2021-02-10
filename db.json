@@ -1,0 +1,39 @@
+{
+    "productos": [
+      {
+        "nombre": "Suadero",
+        "precio": "500",
+        "id": 7
+      },
+      {
+        "nombre": "pan",
+        "precio": "60",
+        "id": 8
+      },
+      {
+        "nombre": "Tequila",
+        "precio": 5,
+        "id": 11
+      },
+      {
+        "nombre": "donitas",
+        "precio": 200,
+        "id": 12
+      },
+      {
+        "nombre": "Esquites",
+        "precio": 10,
+        "id": 13
+      },
+      {
+        "nombre": "Gansito",
+        "precio": "20",
+        "id": 14
+      },
+      {
+        "nombre": "salchichas con jamon",
+        "precio": 5,
+        "id": 15
+      }
+    ]
+  }
